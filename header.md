@@ -18,7 +18,7 @@ This is a place to practice git. Your first exercise is to add your name to this
  - This [article](https://help.github.com/articles/using-pull-requests) should give you a good idea of what pull requests are 	   how to use them.<br>
 - You can step by step guide [here](https://github.com/asmeurer/git-workflow)<br>
 
-**Your Entry should maintain an Alphabetic order.**<br>
+**Your Entry should maintain an Alphabetic order.** <br>
 `* your name [username](https://github.com/username).`
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked. After adding the name execute updatename.py to update the readme.
