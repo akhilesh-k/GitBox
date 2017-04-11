@@ -16,7 +16,7 @@ This is a place to practice git. Your first exercise is to add your name to this
 - **Fork the repo, create a new branch, make changes and send make a pull request**
 
  - This [article](https://help.github.com/articles/using-pull-requests) should give you a good idea of what pull requests are 	   how to use them.<br>
-- You can step by step guide [here](https://github.com/asmeurer/git-workflow)<br>
+- You can step by step guide [here](https://github.com/akhilesh-k/GitBox/blob/master/Github%20Tutorial%20Notes.ipynb)<br>
 
 **Your Entry should maintain an Alphabetic order.**<br>
 `* your name [username](https://github.com/username).`
