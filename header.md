@@ -21,4 +21,4 @@ This is a place to practice git. Your first exercise is to add your name to this
 **Your Entry should maintain an Alphabetic order.**<br>
 `* your name [username](https://github.com/username).`
 
-Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked. After adding the name execute update.py to update the readme.
+Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked. After adding the name execute updatename.py to update the readme.
