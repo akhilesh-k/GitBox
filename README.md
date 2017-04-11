@@ -34,3 +34,5 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Interactive git guide, [here](http://pcottle.github.io/learnGitBranching/)
 * Comprehensive tutorial, [here](https://www.atlassian.com/git/tutorials/)
 * Complete referenced book [here](http://git-scm.com/book/en/v2)
+
+**In this repo you will find the accompanying Jupyter Notebook. For quicker view rendering and simpler downloading procedures, you can check out this repo using [NbViewer](http://nbviewer.ipython.org/github/jmportilla/Complete-Python-Bootcamp/tree/master/).**
