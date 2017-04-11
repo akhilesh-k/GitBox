@@ -2,7 +2,7 @@
 * Inspired from [Git-Sandbox](https://github.com/AGV-IIT-KGP/git-sandbox)
 * This Tutorial is written in Markdown.
 
-This is a place to practice git. Your first exercise is to add your name to this list. To complete this exercise you need to:
+This is a place to practice git. Your first exercise is to add your name to this [list](https://github.com/akhilesh-k/GitBox/blob/master/CONTRIBUTORS.md). To complete this exercise you need to:
 
 ### Learn to use git
 <br>
